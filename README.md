@@ -19,7 +19,7 @@ Append the following in `~/.xbindkeysrc`
 With the help of a macro configured on my [Dygma Raise 2](https://dygma.com/pages/dygma-raise-2), I now have a shortcut that can cycle audio output between the available devices.
 
 ##### Configure macro
-I created a macro to input `Ctrl+Shift+s` and named it `Switch Audio Device`
+I created a macro to input `Ctrl+Shift+1` and named it `Switch Audio Device`
 
 ![Create Macro](./images/dygma-macro.png)
 
